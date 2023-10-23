@@ -68,6 +68,7 @@
 64.227.44.0/24 # binaryedge.ninja
 64.227.47.0/24 # binaryedge.ninja
 64.227.90.0/24 # draft.census.shodan.io
+65.49.1.0/24 # shadowserver.org stealth?
 65.49.20.0/24 # scan-17a.shadowserver.org
 66.240.192.0/24 # census8.shodan.io
 66.240.205.0/24 # malware-hunter.census.shodan.io
