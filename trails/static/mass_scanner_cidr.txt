@@ -759,6 +759,7 @@
 198.211.113.0/24 # binaryedge.ninja
 198.211.96.0/24 # binaryedge.ninja
 198.235.24.0/24 # cortex xpanse
+199.45.154.0/23 # censys.io
 203.178.148.0/24 # pinger-j1.ant.isi.edu.
 204.42.253.0/24 # openntpproject.org
 204.42.254.0/24 # openresolverproject.org
