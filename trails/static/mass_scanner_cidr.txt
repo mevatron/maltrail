@@ -708,6 +708,7 @@
 185.181.102.0/24 # turtle.census.shodan.io
 185.216.140.0/24 # NYUOsirisLaboratory
 185.232.64.0/24 # 185.232.64.20
+185.242.226.0/24 # criminalip.com
 185.35.62.0/24 # kudelskisecurity.com
 185.50.66.0/24 # ANSSI
 188.138.9.0/24 # atlantic.census.shodan.io
