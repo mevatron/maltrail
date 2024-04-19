@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 localhost
@@ -3966,3 +3966,28 @@ xr.mozilla.org
 
 nshc.net
 redalert.nshc.net
+
+# Reference: https://twitter.com/lowmal3/status/1719980601489375489
+# github ip
+
+185.199.108.133
+185.199.109.133
+
+# Reference: https://github.com/netbootxyz/netboot.xyz
+# Reference: https://www.virustotal.com/gui/domain/netboot.xyz/relations
+
+netboot.xyz
+
+# Reference: https://github.com/stamparm/maltrail/commit/80add532b2148f124ffa76794314d7581ad4097a
+
+sqlite.org
+dynupdate.noip.com
+
+# Reference: https://www.virustotal.com/gui/domain/example.com/relations
+
+ns1.example.com
+ns2.example.com
+
+# Reference: https://www.malwarebytes.com/blog/threat-intelligence/2023/12/new-metastealer-malvertising-campaigns
+
+accounts.google.com

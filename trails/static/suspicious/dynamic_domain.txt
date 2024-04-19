@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://www.noip.com/sign-up
@@ -3286,6 +3286,10 @@ dvrlists.com
 
 1qw.us
 
+# Reference: https://www.virustotal.com/gui/domain/6bc.us/relations
+
+6bc.us
+
 # Reference: https://desec.readthedocs.io/en/latest/dyndns/configure.html
 # Reference: https://www.virustotal.com/gui/domain/dedyn.io/relations
 
@@ -3448,7 +3452,7 @@ com.se
 
 dynip.online
 
-# Refereence: https://www.virustotal.com/gui/domain/ddns.network/relations
+# Reference: https://www.virustotal.com/gui/domain/ddns.network/relations
 
 ddns.network
 
@@ -3512,3 +3516,82 @@ bumbleshrimp.com
 # Reference: https://www.virustotal.com/gui/domain/4cloud.click/detection
 
 4cloud.click
+
+# Reference: https://www.virustotal.com/gui/domain/perfect-privacy.com/relations
+
+perfect-privacy.com
+
+# Reference: https://www.virustotal.com/gui/domain/no-ip.me/relations
+
+no-ip.me
+
+# Reference: https://www.virustotal.com/gui/domain/changeip.co.uk/relations
+
+changeip.co.uk
+
+# Reference: https://www.virustotal.com/gui/domain/changeip.me/relations
+
+changeip.me
+
+# Reference: https://app.validin.com/axon?find=158.247.7.206&type=ip
+
+faststream.link
+noip.click
+noip.digital
+noip.life
+noip.link
+noip.network
+noip.re
+noip.store
+noip.team
+noip.website
+noip.world
+sharkstream.live
+sitodom.website
+zapto.live
+
+# Reference: https://www.virustotal.com/gui/domain/mykeenetic.ru/relations
+
+mykeenetic.ru
+
+# Reference: https://www.virustotal.com/gui/domain/coolpage.biz/relations
+
+coolpage.biz
+
+# Reference: https://www.virustotal.com/gui/domain/dyn-ip24.de/relations
+
+dyn-ip24.de
+
+# Reference: https://www.virustotal.com/gui/domain/nat123.cc/relations
+
+nat123.cc
+nat123.fun
+nat123.net
+
+# Reference: https://www.virustotal.com/gui/domain/dyndns.uno/relations
+
+dyndns.uno
+
+# Reference: https://www.virustotal.com/gui/domain/noip.sbs/relations
+
+noip.sbs
+
+# Reference: https://www.virustotal.com/gui/domain/fluxus.org/relations
+
+fluxus.org
+
+# Reference: https://www.virustotal.com/gui/domain/jerkface.net/relations
+
+jerkface.net
+
+# Reference: https://www.virustotal.com/gui/domain/tpddns.net/relations
+
+tpddns.net
+
+# Reference: https://www.virustotal.com/gui/domain/darkworlds.org/relations
+
+darkworlds.org
+
+# Reference: https://www.virustotal.com/gui/domain/addns.org/relations
+
+addns.org

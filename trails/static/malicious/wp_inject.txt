@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Generic detection for compromised WordPress CMS
@@ -1816,6 +1816,7 @@ spot.scriptsplatform.com
 stay.linestoget.com
 stay.stratosbody.com
 step.linestoget.com
+take.specialtaskevents.com
 trace.stratosbody.com
 trend.stablelightway.com
 way.trackersline.com
@@ -1842,17 +1843,92 @@ stay.decentralappps.com
 stock.decentralappps.com
 way.decentralappps.com
 
+# Reference: https://www.virustotal.com/gui/ip-address/111.90.141.192/relations
+# Reference: https://www.virustotal.com/gui/ip-address/185.177.94.180/relations
+# Reference: https://app.validin.com/axon?source=DNS&type=ip&find=111.90.141.192
+
+allowww.com
+blacklinetosplit.com
+getfailfilm.com
+whitelinetosplit.com
+0.allowww.com
+1.allowww.com
+2.allowww.com
+3.allowww.com
+4.allowww.com
+5.allowww.com
+6.allowww.com
+7.allowww.com
+8.allowww.com
+9.allowww.com
+10.allowww.com
+0.blacklinetosplit.com
+1.blacklinetosplit.com
+2.blacklinetosplit.com
+0.getfailfilm.com
+1.getfailfilm.com
+2.getfailfilm.com
+3.getfailfilm.com
+4.getfailfilm.com
+5.getfailfilm.com
+6.getfailfilm.com
+7.getfailfilm.com
+8.getfailfilm.com
+9.getfailfilm.com
+10.getfailfilm.com
+0.whitelinetosplit.com
+2.whitelinetosplit.com
+from.whitelinetosplit.com
+goto.whitelinetosplit.com
+select.blacklinetosplit.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.177.94.194/relations
+
+gadgetnews.one
+gomajorlink.com
+m-video.shop
+major-video.click
+majoriklink.com
+majorikmedia.com
+majorilink.com
+majorius.com
+majorlink.club
+majorlinker.biz
+majorlinker.com
+majormedialink.com
+majorpush.shop
+majorsmi.com
+majortoplink.com
+n1major.com
+n2major.com
+n3major.com
+notrobot.top
+
 # Reference: https://www.virustotal.com/gui/ip-address/80.66.79.252/relations
 # Reference: https://www.virustotal.com/gui/ip-address/80.66.79.253/relations
 
 bridgelinering.com
+colorschemeas.com
 lightsteper.com
 promsmotion.com
+210net.promsmotion.com
+211.210net.promsmotion.com
+232.211.210net.promsmotion.com
+2fservice.specialcraftbox.com
+46.232.211.210net.promsmotion.com
+all.colorschemeas.com
+call.colorschemeas.com
+et.promsmotion.com
+fecall.colorschemeas.com
+gate.promsmotion.com
+generic.service.specialcraftbox.com
 get.lightsteper.com
 get.promsmotion.com
+getl.promsmotion.com
 go.bridgelinering.com
 net.promsmotion.com
 page.specialnewspaper.com
+s.specialcraftbox.com
 show.bridgelinering.com
 
 # Reference: https://www.virustotal.com/gui/ip-address/2.59.222.157/relations
@@ -1864,21 +1940,25 @@ get.getmygateway.com
 haishirokuma.comgate.getmygateway.com
 
 # Reference: https://blog.sucuri.net/2023/10/balada-injector-targets-unpatched-tagdiv-plugin-newspaper-theme-wordpress-admins.html
+# Reference: https://www.virustotal.com/gui/ip-address/185.39.206.158/relations
 # Reference: https://www.virustotal.com/gui/ip-address/185.39.206.159/relations
 # Reference: https://www.virustotal.com/gui/ip-address/185.39.206.160/relations
 # Reference: https://www.virustotal.com/gui/ip-address/185.39.206.161/relations
+# Reference: https://www.virustotal.com/gui/ip-address/185.39.206.162/relations
 
 dataofpages.com
 listwithstats.com
 statisticscripts.com
 0cdn.dataofpages.com
 age.listwithstats.com
+asset.statisticscripts.com
 assets.statisticscripts.com
 call.dataofpages.com
 cassets.statisticscripts.com
 cdn.dataofpages.com
 cnd.dataofpages.com
 cdn.statisticscripts.com
+compage.listwithstats.com
 compost.listwithstats.com
 css.statisticscripts.com
 dn.dataofpages.com
@@ -1901,6 +1981,8 @@ splash.dataofpages.com
 ssets.statisticscripts.com
 xyz.dataofpages.com
 calgarytoyshow.compost.listwithstats.com
+listwithstats.compage.listwithstats.com
+page.listwithstats.compage.listwithstats.com
 
 # Reference: https://threatfox.abuse.ch/browse/tag/balada/
 # Reference: https://www.virustotal.com/gui/ip-address/80.66.79.247/relations
@@ -1909,10 +1991,12 @@ getsmallcount.com
 gybritanalytsesystem.com
 playerofsunshine.com
 selectofmychoices.com
+startperfectsolutions.com
 bee.selectofmychoices.com
 best.playerofsunshine.com
 call.getsmallcount.com
 come.statisticplatform.com
+comsecond.gybritanalytsesystem.com
 debest.playerofsunshine.com
 econd.gybritanalytsesystem.com
 emv1.selectofmychoices.com
@@ -1921,35 +2005,94 @@ excellent.playerofsunshine.com
 exelent.playerofsunshine.com
 fifth.gybritanalytsesystem.com
 first.gybritanalytsesystem.com
+five.startperfectsolutions.com
+for.getsmallcount.com
+four.startperfectsolutions.com
 fourth.gybritanalytsesystem.com
 get.statisticplatform.com
 good.playerofsunshine.com
 got.statisticplatform.com
 great.playerofsunshine.com
 here.selectofmychoices.com
-mejor.playerofsunshine.com
 meilleur.playerofsunshine.com
+mejor.playerofsunshine.com
 normal.playerofsunshine.com
+one.startperfectsolutions.com
 prueba.selectofmychoices.com
+qwer.gybritanalytsesystem.com
 root.selectofmychoices.com
 second.gybritanalytsesystem.com
 third.gybritanalytsesystem.com
+three.startperfectsolutions.com
 trry.selectofmychoices.com
 try.selectofmychoices.com
+two.startperfectsolutions.com
 was.selectofmychoices.com
 where.selectofmychoices.com
+browsermine.comsecond.gybritanalytsesystem.com
 test20102023.debest.playerofsunshine.com
 
+# Reference: https://blog.sucuri.net/2024/01/thousands-of-sites-with-popup-builder-compromised-by-balada-injector.html
+# Reference: https://infosec.exchange/@rmceoin/111665788958104483
 # Reference: https://www.virustotal.com/gui/ip-address/80.66.79.248/relations
+# Reference: https://app.validin.com/axon?find=80.66.79.248/30&type=ip4
 
+bestdarkbars.com
+bestlightbars.com
+bestselllerservice.com
 betradingway.com
+blueperfectballon.com
+bluesmallbutterfly.com
+clearblueline.com
+cleargreenline.com
+clearlinesprice.com
+creativemanagercircle.com
+creativemanagerline.com
+darkspecialbars.com
+daynitroglass.com
+goldflowerservice.com
+greenfastline.com
+greensmallbutterfly.com
+lightgreenstep.com
+lightredstep.com
+lightspecialbars.com
+lineferaline.com
+nightnitroglass.com
+openspecificdark.com
+openspecificwhite.com
+redperfectballon.com
 selectchoise.com
+solohostering.com
+somenewforyou.com
+specialcraftbox.com
 statisticplatform.com
+stoneblacksort.com
+stonewhitesort.com
+sunshineblackcolor.com
+sunshinewhitecolor.com
+topgiftsforusers.com
+trackspecialdomain.com
+workandbestservice.com
+workandgoodservice.com
+cget.specialcraftbox.com
+domain-service.specialcraftbox.com
+fine.greenfastline.com
+get.specialcraftbox.com
 give.selectchoise.com
+goaway.betradingway.com
 got.selectchoise.com
 goto.betradingway.com
+goto.lineferaline.com
+namesoft.specialcraftbox.com
 north.statisticplatform.com
+oaway.betradingway.com
+rest.greenfastline.com
+service.specialcraftbox.com
+soft.specialcraftbox.com
+sofx.specialcraftbox.com
 startup.betradingway.com
+stone.betradingway.com
+store.bestselllerservice.com
 west.statisticplatform.com
 
 # Reference: https://www.virustotal.com/gui/ip-address/80.66.79.249/relations
@@ -1960,9 +2103,41 @@ special.beatifulllhistory.com
 # Reference: https://www.virustotal.com/gui/ip-address/80.66.79.251/relations
 
 forwardstarlight.com
+2frest.greenfastline.com
+dominiorest.greenfastline.com
+fine.lineferaline.com
 follow.forwardstarlight.com
 from.forwardstarlight.com
+from.lineferaline.com
+goto.greenfastline.com
+rest.lineferaline.com
+reste.greenfastline.com
 stay.forwardstarlight.com
+step.greenfastline.com
+
+# Reference: https://twitter.com/banthisguy9349/status/1744397694443848035
+
+statisticsplatform.com
+comwest.statisticsplatform.com
+done.forwardstarlight.com
+east.statisticsplatform.com
+finish.selectchoise.com
+north.statisticsplatform.com
+page.bridgelinering.com
+shop.bridgelinering.com
+start.selectchoise.com
+west.statisticsplatform.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1719152791875420655
+
+cdzanalytics.com
+ga.cdzanalytics.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1749877909450633616
+
+plastformspecial.com
+get.plastformspecial.com
+post.plastformspecial.com
 
 # Reference: https://www.virustotal.com/gui/file/eedb020cff479ebcb511376b902825a0e35e5549346462548c0bca8d6ecd7ac3/detection
 
@@ -2073,3 +2248,211 @@ sweetsbonus.life
 topgame-4adult.life
 yourwin.life
 tracker-cloud.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1727470416388874683
+
+gcdnanalytics.com
+metricaga.com
+metricastats.com
+quickcontentnetwork.com
+cdn.metricastats.com
+fast.quickcontentnetwork.com
+gll.metricaga.com
+syndication.gcdnanalytics.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/87.107.124.35/relations
+
+metrica.ir
+metricastats.ir
+metryeka.ir
+stadata.ir
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.140.146.101/relations
+
+away.greenfastline.com
+cdn.bestselllerservice.com
+cgate.getmygateway.com
+estancia.decentralappps.com
+estancia.stratosbody.com
+finish.lineferaline.com
+set.lineferaline.com
+stray.stratosbody.com
+vendingbackstage.comgate.getmygateway.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1747690203941396671
+# Reference: https://www.virustotal.com/gui/ip-address/172.67.185.17/relations
+
+flyspecialline.com
+165.225.208.34near.flyspecialline.com
+208.34near.flyspecialline.com
+225.208.34near.flyspecialline.com
+34near.flyspecialline.com
+746near.flyspecialline.com
+cdn.flyspecialline.com
+cnd.flyspecialline.com
+comnear.flyspecialline.com
+ear.flyspecialline.com
+near.flyspecialline.com
+nearly.flyspecialline.com
+flyspecialline.comnear.flyspecialline.com
+me.near.flyspecialline.com
+near.flyspecialline.comnear.flyspecialline.com
+
+# Reference: https://twitter.com/karol_paciorek/status/1747886529370841512
+
+platformspecial.com
+get.platformspecial.com
+post.platformspecial.com
+
+# Reference: https://www.wordfence.com/blog/2023/12/psa-fake-cve-2023-45124-phishing-scam-tricks-users-into-installing-backdoor-plugin/
+# Reference: https://blog.sucuri.net/2023/12/analysis-of-the-fake-wordpress-cve-2023-46182-patch-plugin-phishing-campaign.html
+# Reference: https://otx.alienvault.com/pulse/656f2ee901a8cdd523b08cb8
+# Reference: https://www.virustotal.com/gui/ip-address/193.32.162.240/relations
+
+en-ca-wordpress.org
+en-gb-wordpress.org
+en-us-wordpress.org
+secureplatform.org
+securityplugins.org
+wordpress.secureplatform.org
+wordpress.securityplugins.org
+wpgate.zip
+wpops.zip
+wpsrv.zip
+wpsys.zip
+
+# Reference: https://thehackernews.com/2024/01/balada-injector-infects-over-7100.html
+# Reference: https://www.secureblink.com/cyber-security-news/6-200-word-press-sites-with-popup-builder-plugin-infected-by-new-balada-1
+# Reference: https://www.malcare.com/blog/wp-vcd-php-malware-removal/
+
+/wp-felody/wp-felody.php
+/wp-includes/wp-vcd.php
+/wp-felody.php
+/wp-vcd.php
+
+# Reference: https://twitter.com/unmaskparasites/status/1752794370435420635
+# Reference: https://www.virustotal.com/gui/file/0b3ce8bad28e3da1377244c102c67f62828d1c7c93b50a78e4c135321a579467/detection
+
+extentaccreditedinsensitive.com
+exemptrequest.com
+highcpmrevenuegate.com
+professionalswebcheck.com
+
+# Reference: https://twitter.com/DavidTy03461965/status/1753098841749069895
+# Reference: https://www.virustotal.com/gui/domain/statisticsong.com/relations
+
+statisticsong.com
+ak.statisticsong.com
+api.statisticsong.com
+c1.statisticsong.com
+dr.statisticsong.com
+emv1.statisticsong.com
+find.statisticsong.com
+panal.statisticsong.com
+panel.statisticsong.com
+widget.statisticsong.com
+wiki.statisticsong.com
+zdm.statisticsong.com
+antimalware.api.statisticsong.com
+
+# Reference: https://twitter.com/unmaskparasites/status/1744851979392950312
+
+ca.en-wordpress.org
+db-wordpress.org
+en-us.db-wordpress.org
+en-us.host-wordpress.org
+en-us.web-wordpress.org
+en-wordpress.org
+en.ca-wordpress.org
+en.uk-wordpress.org
+en.us-wordpress.org
+gb.en-wordpress.org
+host-wordpress.org
+uk-wordpress.org
+us-en-wordpress.org
+us.en-wordpress.org
+web-wordpress.org
+
+# Reference: https://securityonline.info/urgent-warning-balada-injector-malware-targets-popular-wordpress-plugin/
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.94.69/relations
+
+cloudsonicwave.com
+traveltraffic.cc
+host.cloudsonicwave.com
+ttincoming.traveltraffic.cc
+
+# Reference: https://threatfox.abuse.ch/browse/tag/balada/
+# Reference: https://www.virustotal.com/gui/ip-address/193.163.7.113/relations
+# Reference: https://www.virustotal.com/gui/ip-address/45.150.67.235/relations
+# Reference: https://www.virustotal.com/gui/file/f9138500fc81b33e46ad7a5c16936b5aa570afbbd3662b4725b09465cb087751/detection
+# Reference: https://www.virustotal.com/gui/file/07963e46fd55defa8336e4a53ca6ecd48dc6f0a7b51f8231219bcb217d35af8c/detection
+
+apistatexperience.com
+bestresulttostart.com
+startservicefounds.com
+0start.apistatexperience.com
+10start.apistatexperience.com
+api.bestresulttostart.com
+api.startservicefounds.com
+bind.bestresulttostart.com
+dns.startservicefounds.com
+find.bestresulttostart.com
+follow.bestresulttostart.com
+point.bestresulttostart.com
+right.bestresulttostart.com
+scripts.bestresulttostart.com
+start.apistatexperience.com
+tart.apistatexperience.com
+startservicefounds.comapi.startservicefounds.com
+
+# Reference: https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html
+# Reference: https://www.virustotal.com/gui/ip-address/162.0.228.112/relations
+# Reference: https://www.virustotal.com/gui/file/774780f037cb02997b7a262385feb3ef5e9f76a75587cde7af15b415ceb21e3c/detection
+# Reference: https://www.virustotal.com/gui/file/77844112f883cf2cf9b9e4fe49ca7d737705969ef538ad736fd8e19bb2c362d8/detection
+
+24supportkit.com
+365analytics.xyz
+abc-cdn.online
+counter247.live
+js-assets.cloud
+js-min.site
+jsdevlvr.info
+jsonmediapacks.com
+localadswidget.com
+opttracker.online
+schema-forms.org
+stickloader.info
+watchasync.com
+webstaticcdn.com
+wt-api.top
+api.localadswidget.com
+assets.watchasync.com
+cdn.jsdevlvr.info
+cdn.wt-api.top
+js.abc-cdn.online
+js.opttracker.online
+js.schema-forms.org
+l.js-assets.cloud
+load.365analytics.xyz
+page.24supportkit.com
+spf.js-min.site
+stat.counter247.live
+streaming.jsonmediapacks.com
+stylesheet.webstaticcdn.com
+tags.stickloader.info
+
+# Reference: https://blog.sucuri.net/2024/04/javascript-malware-switches-to-server-side-redirects-dns-txt-records-tds.html
+
+ads-promo.com
+host-stats.io
+web-hosts.io
+
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.64.161/relations
+
+startfinishthis.com
+back.startfinishthis.com
+board.startfinishthis.com
+finish.startfinishthis.com
+from.startfinishthis.com
+isit.startfinishthis.com
+visit.startfinishthis.com

@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 #################################################################
@@ -14,15 +14,52 @@
 
 
 
-- Version 0.62 -> 0.63 (Upcoming release)
+- Version 0.68 -> 0.69 (Upcoming release)
+
+
+
+- Version 0.67 -> 0.68 (01 Apr 2024)
+
+[=] Multiple updates and optimizations for regular static trails and the whitelist
+
+
+
+- Version 0.66 -> 0.67 (01 Mar 2024)
+
+[=] Handling usage of pcapy lib instead of pcapy-ng is improved (Issue #19242)
+[=] Fixed /server.py and /sensor.py restart in docker container (Issue #19243)
+[=] Multiple updates and optimizations for regular static trails and the whitelist
+
+
+
+- Version 0.65 -> 0.66 (01 Feb 2024)
+
+[=] Multiple updates and optimizations for regular static trails and the whitelist
+
+
+
+- Version 0.64 -> 0.65 (01 Jan 2024)
+
+[+] Customisable blacklists via BLACKLIST option in /maltrail.conf file (Issue #19230)
+[=] Multiple updates and optimizations for regular static trails and the whitelist
+
+
+
+
+- Version 0.63 -> 0.64 (01 Dec 2023)
+
+[=] Multiple updates and optimizations for regular static trails and the whitelist
+
+
+
+
+- Version 0.62 -> 0.63 (01 Nov 2023)
 
 [=] FAIL2BAN_REGEX and REMOTE_SEVERITY_REGEX options were updated to handle "potential iot-malware download" heur (Issue #19207)
 [=] Abuseipdb feed was updated (Issue #19208)
 [=] "potential remote code execution" heur for CVE-2016-0545 detection is updated (Issue #19210)
 [=] "potential remote code execution" heur is updated for MacOS process list tracking in HTTP POST-req (Issue #19214)
 [=] Multiple updates and optimizations for regular static trails and the whitelist
-
-
 
 
 

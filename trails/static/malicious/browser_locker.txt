@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Aliases: browlock
@@ -21610,8 +21610,54 @@ xml.maidenvalve2.online
 
 browserengine.online
 
-# Referecne: https://twitter.com/malwrhunterteam/status/1717060335679492368
+# Reference: https://twitter.com/malwrhunterteam/status/1717060335679492368
+# Reference: https://twitter.com/malwrhunterteam/status/1717474745917075852
+# Reference: https://twitter.com/malwrhunterteam/status/1719617032767848748
 
 d2mvehzm92szfi.cloudfront.net
+internetsecuritynotice72.z13.web.core
 /Win08Ay0Er08d8d77/index.html
+/Win081ShlJckEr08d07/index.html
 /Win08Ay0Er08d8d77/
+/Win081ShlJckEr08d07/
+
+# Reference: https://twitter.com/david_jursa/status/1719754073941963176
+
+kpdofa.xyz
+sea-lion-appmnkjiuuyjhhgytgf-j2o8b.ondigitalocean.app
+/ErWinhotlineEr087/index.html
+/ErWinhotlineEr087/
+
+# Reference: https://twitter.com/malwrhunterteam/status/1719619667134660655
+
+m13ya72ud343p.azureedge.net
+
+# Reference: https://twitter.com/elhackernet/status/1724018796870930766
+# Reference: https://www.virustotal.com/gui/ip-address/138.68.80.98/relations
+
+fruitsofhealth.shop
+
+# Reference: https://twitter.com/malwrhunterteam/status/1726525829189099969
+# Reference: https://twitter.com/malwrhunterteam/status/1732424582806843423
+# Reference: https://twitter.com/malwrhunterteam/status/1739251934677082602
+
+greatsupport.azurewebsites.net
+holycross.azurewebsites.net
+malfunctionerror.azurewebsites.net
+supportlove.azurewebsites.net
+zealous-tree-00ef28f10.4.azurestaticapps.net
+/Win08ShDMeEr0887/index.html
+/Win08ShDMeEr0887/
+
+# Reference: https://twitter.com/as_informatico/status/1729446054716907762
+
+louraalex.com
+
+# Reference: https://twitter.com/g0njxa/status/1743242436619706398
+
+breavestcardioworkoutsforultimates04526.azurewebsites.net
+
+# Reference: https://twitter.com/g0njxa/status/1751312088515985728
+
+totalpart.z9.web.core.windows.net
+totalpartningonline.z9.web.core.windows.net

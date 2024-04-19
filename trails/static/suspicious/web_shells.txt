@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://github.com/emposha/PHP-Shell-Detector
@@ -957,3 +957,12 @@ podathon.org/shell/
 /Nginx1337.php
 /b374kpriv.php.txt
 /Nginx1337.php.txt
+
+# Reference: https://twitter.com/sicehice/status/1747030318924677353
+
+/FxCodeShell.jsp
+
+# Reference: https://twitter.com/1ZRR4H/status/1751656174515098023
+# Reference: https://twitter.com/r3dbU7z/status/1753692024216113625
+
+/php-reverse-shell.php

@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://en.wikipedia.org/wiki/Browser_hijacking
@@ -3187,13 +3187,6 @@ c1.downlloaddatamy.info
 c2.downlloaddatamy.info
 r1.getapplicationmy.info
 
-# Reference: https://elfdigest.com/brief/49215ba3fb3e632847843780a063d93942d3282d7cbbb99d72abd0b3993d429b
-# Reference: https://www.virustotal.com/gui/file/49215ba3fb3e632847843780a063d93942d3282d7cbbb99d72abd0b3993d429b/detection
-# Reference: https://www.virustotal.com/gui/file/4aa68a06c07154d01f6b1366a485253f375e084b4ddf00ba96cec0d583182a64/detection
-
-http://208.95.112.1
-succubus.neko.ltd
-
 # Reference: https://www.virustotal.com/gui/file/56399f6fa4383d51efc562487f8da78993b40fb2ded2af626db42dc5b956e734/detection
 
 mwcseed.ddns.net
@@ -3272,3 +3265,34 @@ qjmm666.com
 46.27.153.138:23768
 47.63.191.10:23768
 serrapirate2121.duckdns.org
+
+# Reference: https://www.virustotal.com/gui/file/93c56f2a7edf543df3e88ebb557917d87ca53cae6c34da4f2b161d7089b04b38/detection
+
+http://173.249.27.120
+173.249.27.120:45454
+ultimatefakkers.ddns.net
+updates.ultimate-fakkers.co.network
+
+# Reference: https://twitter.com/naumovax/status/1747985922098966617
+# Reference: https://tria.ge/240116-da7gkabfck/behavioral1
+# Reference: https://www.virustotal.com/gui/file/4fc7ad1276074ef0d8b76492fdda4e096985cea9ec395fa13533f80d3ed8d2d6/detection
+# Reference: https://www.virustotal.com/gui/file/b95918223f9ace3d071e44550fd34f34c180b81e28f5e79cc4eba55006c8a6b0/detection
+
+154.91.65.76:7211
+154.91.65.76:7212
+
+# Reference: https://www.virustotal.com/gui/file/217013de55939b477e098a11a75f84d76abadd0c0faadab13bb044e6a7a69c3d/detection
+
+212.113.106.102:12600
+
+# Reference: https://www.virustotal.com/gui/file/0e0272d21046552694e6577542d1c1957206a9d6bdcad3eb80a5824dc30cbe23/detection
+# Reference: https://www.virustotal.com/gui/file/e5a29f76897ba68d88a9ef979deeae6bffb52d9355a855897e2002432f041e57/detection
+
+artificiusbrowser.com
+browseruniverse.com
+crxdragonsync.com
+crxdragonupdate.com
+
+# Reference: https://www.virustotal.com/gui/file/bb5ef9f70483ed7c79e37eca9dd136a514a346943edfe2803e27d1f6b262f05a/detection
+
+support.clz.kr
