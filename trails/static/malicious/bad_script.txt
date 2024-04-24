@@ -6971,6 +6971,7 @@ tpc.cdn-linkedin.info
 /6b989c9d91160b88.php
 /6d39c24c1b988e61.php
 /6e26382b1807d1b9.php
+/6ef96e7190cc7acd.php
 /70434c9d1b55ce63.php
 /70664a52ad417ca5.php
 /7276296f1d284397.php
@@ -8448,6 +8449,29 @@ cachline.com
 /shell_reverse_tcp.py
 /shell_reverse_tcp.sh
 
+# Reference: https://twitter.com/doc_guard/status/1781325713951314119
+# Reference: https://www.virustotal.com/gui/file/b8288968633bcfa46dc1cf1ab6c5b248e6be020184991e82ba8db56676b2e0cf/detection
+
+/basterlord.hta
+
+# Reference: https://twitter.com/malwrhunterteam/status/1782277290363174988
+
+/Cqlqb.hta
+
+# Reference: https://twitter.com/banthisguy9349/status/1782402749805527142
+
+/exploitw.py
+
+# Reference: https://twitter.com/banthisguy9349/status/1782401923133354148
+
+/backgroud_attack.php
+
+# Reference: https://twitter.com/doc_guard/status/1782401510350954620
+# Reference: https://app.docguard.io/ed4149d5ac4b15e22b9f240e75638ea3c4da01a021d30ed2d062919159c6a7c9/results/dashboard
+
+/nonendowmentaGen.ps1
+/scragglingiJsW.ps1
+
 # Generic
 
 /js/altmanluggage.js
@@ -8530,12 +8554,14 @@ cachline.com
 /gate.phpgate.php
 /ggate.php
 /gggate.php
+/gAy5B.php
 /Invoke-Phant0m.ps1
 /online-dating-verification-card.php
 /ravufgate.php
 /screenshot_gate.php
 /tgate.php
 /testgate.php
+/test_gate0117.php
 /verification-card.php
 /1drvme/
 /payload/openAttach/
